@@ -2,14 +2,15 @@
   "name": "hendrikkels",
   "displayName": "Hendrikkels",
   "publisher": "hendrikkels",
-  "description": "Theme for Hendrikkels",
-  "homepage": "https://github.com/hiukky/flate#readme",
+  "description": "Hendrikkels Theme",
+  "icon": "assets/logo.png",
+  "homepage": "https://github.com/hendrikkels/hendrikkels-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hiukky/flate"
+    "url": "https://github.com/hendrikkels/hendrikkels-theme"
   },
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
   },
