@@ -1,0 +1,26 @@
+{
+  "name": "hendrikkels",
+  "displayName": "Hendrikkels",
+  "description": "Theme for Hendrikkels",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hendrikkels-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hendrikkels-dark-color-theme.json"
+      },
+      {
+        "label": "hendrikkels-light",
+        "uiTheme": "vs-light",
+        "path": "./themes/hendrikkels-light-color-theme.json"
+      }
+    ]
+  }
+}
