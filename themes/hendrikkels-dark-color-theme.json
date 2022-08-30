@@ -7,7 +7,7 @@
       "foreground": "#00cecb"
     },
     "variable.constant": {
-      "foreground": "#f0aa85"
+      "foreground": "#a29bfe"
     },
     "variable.defaultLibrary": {
       "foreground": "#ffffff"
@@ -356,7 +356,7 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#ff5d8f"
+        "foreground": "#00cecb"
       }
     },
     {
@@ -610,13 +610,6 @@
       }
     },
     {
-      "name": "Classes",
-      "scope": "support.class, entity.name.type.class",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
@@ -757,21 +750,21 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#f0aa85"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#f0aa85"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#f0aa85"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1417,7 +1410,7 @@
         "keyword.operator.assignment"
       ],
       "settings": {
-        "foreground": "#00cecb"
+        "foreground": "#ffffff"
       }
     },
     {
