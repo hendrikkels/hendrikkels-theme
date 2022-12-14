@@ -1,5 +1,5 @@
 # Hendrikkels
-### A Light/Dark VSCode theme by Hendrikkels
+### A soft on the eyes, distraction free, Light/Dark VSCode theme by Hendrikkels
 ---
 # Screenshots
 
