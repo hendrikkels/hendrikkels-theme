@@ -10,7 +10,7 @@
     "url": "https://github.com/hendrikkels/hendrikkels-theme"
   },
   "license": "MIT",
-  "version": "1.4.4",
+  "version": "1.4.7",
   "engines": {
     "vscode": "^1.70.0"
   },
